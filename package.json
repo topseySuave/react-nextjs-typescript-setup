@@ -1,0 +1,21 @@
+{
+  "author": "Gabriel Micah",
+  "repository": "https://github.com/topseySuave/random-phone-generator.git",
+  "scripts": {
+    "dev": "nodemon --exec next",
+    "deploy": "now"
+  },
+  "dependencies": {
+    "@types/next": "^8.0.3",
+    "@types/react": "^16.8.10",
+    "@zeit/next-sass": "^1.0.1",
+    "@zeit/next-typescript": "^1.1.1",
+    "add": "^2.0.6",
+    "ayarn": "^0.1.0",
+    "next": "^8.0.3",
+    "node-sass": "^4.11.0",
+    "nodemon": "^1.18.10",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
